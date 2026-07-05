@@ -6,12 +6,15 @@
 </p>
 
 <p align="center">
-  💻 <b>software engineer</b> | 🛠️ building <b><a href="LINK_TO_REPO_WHEN_PUBLIC">an upcoming application</a></b> | 💬 connect on <b><a href="https://www.linkedin.com/in/adamnordling/">LinkedIn</a></b>
+  💻 <b>software engineer</b> | 🛠️ building <b><a href="https://github.com/adamnordling/nutritional-app" target="_blank" rel="noopener noreferrer">an upcoming application</a></b> | 💬 connect on <b><a href="https://www.linkedin.com/in/adamnordling/" target="_blank" rel="noopener noreferrer">LinkedIn</a></b>
 </p>
 
 <p align="center">
-  <a href="https://adamnordling.github.io">adamnordling.github.io</a>
+  <a href="https://adamnordling.github.io" target="_blank" rel="noopener noreferrer">adamnordling.github.io</a>
 </p>
+
+
+
 
 
 ---
