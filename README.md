@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/-Docker-000?logo=docker" alt="Docker" />
   <img src="https://img.shields.io/badge/-Git-000?logo=git" alt="Git" />
   <img src="https://img.shields.io/badge/-Linux-000?logo=linux" alt="Linux" />
-  <img src="https://img.shields.io/badge/-Ubuntu-000?logo=ubuntu" alt="Ubuntu" />
+
   <img src="https://img.shields.io/badge/-Wireshark-000?logo=wireshark" alt="Wireshark" />
 </p>
 
