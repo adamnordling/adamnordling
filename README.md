@@ -53,7 +53,6 @@
   <img src="https://img.shields.io/badge/-Linux-000?logo=linux" alt="Linux" />
   <img src="https://img.shields.io/badge/-Ubuntu-000?logo=ubuntu" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/-Kali%20Linux-000?logo=kalilinux" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/-MariaDB-000?logo=mariadb" alt="MariaDB" />
   <img src="https://img.shields.io/badge/-Wireshark-000?logo=wireshark" alt="Wireshark" />
 </p>
 
