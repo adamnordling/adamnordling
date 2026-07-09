@@ -14,10 +14,6 @@
 </p>
 
 
-<p align="center">
-  <a href="https://adamnordling.github.io" target="_blank" rel="noopener noreferrer">adamnordling.github.io</a>
-</p>
-
 
 ---
 
