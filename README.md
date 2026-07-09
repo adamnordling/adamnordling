@@ -9,7 +9,9 @@
   💻 <b>software engineer</b> | 🛠️ building <b><a href="https://github.com/adamnordling/nutritional-app" target="_blank" rel="noopener noreferrer">an upcoming application</a></b> | 💬 connect on <b><a href="https://www.linkedin.com/in/adamnordling/" target="_blank" rel="noopener noreferrer">LinkedIn</a></b>
 </p>
 
-
+<p align="center">
+  <a href="https://adamnordling.github.io" target="_blank" rel="noopener noreferrer">adamnordling.github.io</a>
+</p>
 
 
 
