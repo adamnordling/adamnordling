@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://adamnordling.github.io" target="_blank" rel="noopener noreferrer">adamnordling.se</a>
+  <a href="https://adamnordling.se" target="_blank" rel="noopener noreferrer">adamnordling.se</a>
 </p>
 
 
